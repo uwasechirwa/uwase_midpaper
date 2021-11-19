@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Amiko:wght@600&family=Amita&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amita&display=swap');
+
+
+body{
+    background-image:url('');
+  background-size:cover;
+  background-repeat:no-repeat;
+   box-shadow:0px 5px 20px ;
+}
+
+/*.card span{
+  width:350px;
+  overflow:hidden;
+  background:fff;
+  border:10px solid grey;
+  border-radius:10px;
+  box-shadow:0 0 20px;
+  display:flex wrap;
+  flex-direction:column;
+}*/
+
+#img{
+  display:block;
+  margin:auto;
+  padding:0px;
+}
+
+div#fc{
+margin:auto;
+width:550px;
+/*border:10px solid lightblue;
+border-bottom-left-radius:25px;
+  border-top-right-radius:25px;*/
+  display: flex;
+  flex-wrap: wrap;
+  color: rgb(3, 3, 3);
+  font-family:"amita";
+  perspective:50px;
+  text-shadow:0px 0px #0a0808c4;
+  font-size:50px;
+   justify-content:center;
+  box-shadow:0px 0.9px ;
+}
+
+.title{
+	padding-top:20px;
+  font-family:'Amiko';
+  font-size: 30px;
+  text-align: center;
+  margin: 0 10px;
+}
+
+#lin{
+  font-variant:small-caps;
+  text-align:center;
+  color:rgba(250, 14, 14, 0.973);
+  padding:10px;
+  justify-content:center;
+  text-decoration: none;
+}
+
+.content{
+  font-family: 'Amiko';
+  font-size: 30px;
+  letter-spacing:1.1px;
+  margin:0 auto;
+  text-align: center;
+  padding:0 50px 10px 50px;
+  text-shadow:0 0.2 0.3px;
+}
+
+a{
+	padding:5px;
+	margin:2px;
+	text-align:center;
+}
+
+
+input{
+  margin: 20px;
+  width: 180px;
+
+}
+button{
+  color:rgba(17, 13, 13, 0.863);
+  background-color: rgba(230, 39, 39, 0.918);
+}
+form{
+  background-color: rgba(241, 241, 247, 0.952);
+  width: 30%;
+  padding: 10px;
+  margin: auto;
+  left: 20px;
+  right: 60px;
+}
+table,th,td{
+  border:1px solid rgb(235, 234, 234);
+  border-collapse:collapse;
+  border:1px solid rgb(241, 239, 239);
+}
+th,td {
+  padding: 15px;
+}
+th{
+  text-align: left;
+}
+table{
+  border-spacing: 5px;
+}
+table{
+  font-family: arial,sans-serif;
+  border-collapse: collapse;
+  width: 20px;
+
+}
+td,th{
+  border:1px solid#dddddd;
+  text-align: left;
+  padding: 8px;
+}
+tr:nth-child(even) {
+  background-color:#dddddd;
+
+}
+
+
+
