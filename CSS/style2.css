@@ -54,7 +54,7 @@ border-bottom-left-radius:25px;
 #lin{
   font-variant:small-caps;
   text-align:center;
-  color:rgba(250, 14, 14, 0.973);
+  color:rgba(241, 188, 43, 0.973);
   padding:10px;
   justify-content:center;
   text-decoration: none;
@@ -84,7 +84,7 @@ input{
 }
 button{
   color:rgba(17, 13, 13, 0.863);
-  background-color: rgba(230, 39, 39, 0.918);
+  background-color: rgba(231, 158, 22, 0.918);
 }
 form{
   background-color: rgba(241, 241, 247, 0.952);
